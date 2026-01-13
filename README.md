@@ -1,5 +1,9 @@
 # Supply Chain Performance Analysis
 
+---
+
+## Project Overview
+
 This project analyzes supply chain performance using SQL (BigQuery) and Tableau Public.  
 The objective is to identify supply risk, assess product movement efficiency, evaluate delivery & fulfillment performance, and compare supplier reliability to support data-driven decisions.
 
