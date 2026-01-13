@@ -8,3 +8,4 @@ SELECT
 FROM lunar-standard-476607-h9.supply_chain.raw_supply_chain
 GROUP BY procurement_action_code
 ORDER BY avg_order_frequency DESC
+;
