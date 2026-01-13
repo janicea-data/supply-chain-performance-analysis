@@ -16,4 +16,5 @@ FROM (
     END AS supply_risk_flag
   FROM lunar-standard-476607-h9.supply_chain.raw_supply_chain
 )
-GROUP BY supply_risk_flag;
+GROUP BY supply_risk_flag
+;
