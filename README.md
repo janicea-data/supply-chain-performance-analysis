@@ -5,7 +5,7 @@ The objective is to identify supply risk, assess product movement efficiency, ev
 
 ---
 
-##Business Questions
+## Business Questions
 
 1. Which products show potential supply risk due to high volatility?
 2. How efficiently are products moving across categories?
@@ -15,7 +15,7 @@ The objective is to identify supply risk, assess product movement efficiency, ev
 
 ---
 
-##Tools & Technologies
+## Tools & Technologies
 
 - **Google BigQuery** (SQL for data extraction & analysis)  
 - **Tableau Public** (Data visualization & dashboard)  
@@ -23,7 +23,7 @@ The objective is to identify supply risk, assess product movement efficiency, ev
 
 ---
 
-##Dataset Overview
+## Dataset Overview
 
 Dataset Kaggle
 CC0: Public Domain
@@ -44,7 +44,7 @@ The dataset contains key operational metrics for supply chain, including:
 
 ---
 
-##Key Findings
+## Key Findings
 
 ### 1. Supply Risk
 - Approximately **11.82% of products** are flagged as *potential supply risk* due to high demand volatility and unstable lead times.
@@ -69,14 +69,13 @@ Overall, fulfillment is relatively strong.
 
 ---
 
-##Tableau Public Dashboard
+## Tableau Public Dashboard
 Access the interactive dashboard here:
-
-👉 https://public.tableau.com/views/SupplyChainPerformanceOverview_17682930655400/Dashboard1?:language=en-US
+https://public.tableau.com/views/SupplyChainPerformanceOverview_17682930655400/Dashboard1?:language=en-US
 
 ---
 
-##Information on This Repo
+## Information on This Repo
 
 - `/sql/` — contains SQL queries used to generate data for each analysis step
 - `/data/` — CSV files exported from BigQuery
