@@ -19,11 +19,10 @@ The objective is to identify supply risk, assess product movement efficiency, ev
 
 ---
 
-## Tools & Technologies
+## Tools 
 
 - **Google BigQuery** (SQL for data extraction & analysis)  
 - **Tableau Public** (Data visualization & dashboard)  
-- **GitHub** (Project documentation & portfolio)
 
 ---
 
@@ -48,7 +47,7 @@ The dataset contains key operational metrics for supply chain, including:
 
 ---
 
-## Key Findings
+## Key Insights
 
 ### 1. Supply Risk
 - Approximately **11.82% of products** are flagged as *potential supply risk* due to high demand volatility and unstable lead times.
